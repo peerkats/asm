@@ -2,4 +2,4 @@
 
 
 
-### trying to some basics of assembly
+### trying to learn some basics of assembly
